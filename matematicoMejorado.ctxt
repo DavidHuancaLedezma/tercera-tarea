@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=matematicoMejorado
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ matematicoMejorado\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ b\ c
+comment1.target=double\ ecuacionSegundoGrado(double,\ double,\ double)
+comment2.params=cateto\ hipotenusa
+comment2.target=double\ hallarCatetoFaltante(double,\ double)
+comment3.params=x1\ y1\ x2\ y2
+comment3.target=double\ encontrarRecta(double,\ double,\ double,\ double)
+numComments=4
